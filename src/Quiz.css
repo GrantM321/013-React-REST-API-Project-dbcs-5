@@ -1,0 +1,59 @@
+
+
+.header {
+  text-align: center;
+  vertical-align: center;
+  background-color: gray;
+
+}
+
+p.hint {
+  display: inline;
+  margin-right: 230px;
+}
+
+p.score {
+  display: inline;
+}
+
+.question {
+  text-align: center;
+  line-height: 5vh;
+}
+
+question.img {
+  height: 30px;
+  width: 30px;
+}
+
+.btn {
+  background: grey;
+}
+
+
+div.hint-and-check  {
+  text-align: center;
+
+}
+
+div.answer-box{
+  text-align: center;
+  padding: 5vh;
+}
+
+button.hint {
+  align-self: center;
+  margin-right: 130px;
+}
+
+div.correct-incorrect {
+  text-align: center;
+}
+
+div.stats-next {
+  text-align: center;
+}
+
+button.stats {
+  margin-right: 300px;
+}
